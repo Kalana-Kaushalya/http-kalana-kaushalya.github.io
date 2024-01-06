@@ -571,7 +571,10 @@ section{
     grid-template-columns: repeat(auto-fit, minmax(259px, 1fr));
     grid-gap: 40px;
     margin-top: 50px;
-
+}
+section{
+    padding: 90px;
+    align-items: center;
 }
 
 .row{
