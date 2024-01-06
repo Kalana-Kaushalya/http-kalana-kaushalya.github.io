@@ -210,6 +210,7 @@ body {
 section{
     padding: 90px;
     align-items: center;
+    
 }
 
 .container{
@@ -572,10 +573,7 @@ section{
     grid-gap: 40px;
     margin-top: 50px;
 }
-section{
-    padding: 90px;
-    align-items: center;
-}
+
 
 .row{
     position: relative;
