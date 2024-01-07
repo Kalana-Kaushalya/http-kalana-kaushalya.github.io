@@ -201,13 +201,14 @@ body {
 .sub-title {
     text-align: center;
     font-size: 60px;
+    padding-bottom: rem;
     
 }
 
 .sub-title span {
     color: #0ef;
 }
-section{
+section {
     padding: 90px;
     align-items: center;
     
@@ -285,9 +286,14 @@ section{
     transform: translateY(-10px);
 }
 
+#my-skills {
+    padding-top: 6rem;
+}
+
 section {
     display: flex;
     flex-wrap: wrap;
+   
 }
 
 
@@ -643,7 +649,7 @@ section{
     grid-template-columns: repeat(2,1fr);
     align-items: center;
     gap: 3rem;
-    padding-left: 30px;
+    
     margin-top: 130px;
 }
 
